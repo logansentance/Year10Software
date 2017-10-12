@@ -10,7 +10,11 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.Title = "My Program";
             Console.WriteLine("Hello World");
+            Console.WriteLine("i wasnt expecting Special forces");
             Console.ReadLine();
         }
     }
