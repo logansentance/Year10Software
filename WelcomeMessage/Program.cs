@@ -15,7 +15,6 @@ namespace WelcomeMessage
             Console.Write("Write you name: ");
             string name = Console.ReadLine();
             Console.WriteLine($"Im {name} and this is my Pawn shop");
-            Console.WriteLine($"What is your {Age} ");
 
 
 
