@@ -34,6 +34,7 @@ namespace PickADoor
                 Console.WriteLine("Bo and Txai are busy please leave");
             }
 
+            //wait
             Console.ReadLine();
 
 
