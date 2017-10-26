@@ -18,6 +18,10 @@ namespace AgeProgram
             int age = DateTime.Today.Year - birthday.Year;
 
             //selection
+            if (age == 16)
+            {
+                Console.WriteLine("");
+            }
             if (age >= 0 && age < 13)
             {
                 Console.WriteLine("Bo and Txai having sex");
