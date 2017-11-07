@@ -16,7 +16,7 @@ namespace Magic8Ball
         private static void PlayGame()
         {
             //Define array answers
-            string[] answers = { "Maybe", "Yes", "No", "You gay nibba", "My wigga", "Ask again", "Ha Gay", "And i said NO NO NO NO NO NO", "And he said YES YES YES YES YES YES" };
+            string[] answers = { "Maybe", "Yes", "No", "You gay nibba", "My wigga", "Ask again", "Ha Gay", "And i said NO NO NO NO NO NO", "And he said YES YES YES YES YES YES", "Yes you Thicccccccc" };
 
             //Promt user
             Console.WriteLine("Ask me a question that can be answered 'yes' or 'no'. Type 'exit' to leave");
